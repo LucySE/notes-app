@@ -1,1 +1,11 @@
 # notes-app
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-13 at 22 52 31](https://github.com/LucySE/notes-app/assets/73731572/d6c4b633-fff0-43ba-ac8a-d401c3248807)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-13 at 22 53 26](https://github.com/LucySE/notes-app/assets/73731572/aa67ffb9-5c9a-40f6-b77f-c0cd45cb4bfa)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-13 at 22 53 58](https://github.com/LucySE/notes-app/assets/73731572/4620d640-7cf6-4b04-aad5-b7bd2dd7a983)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-13 at 22 53 58](https://github.com/LucySE/notes-app/assets/73731572/22524e7d-26b7-4f26-bc8e-062b1f9d52f2)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-13 at 22 54 25](https://github.com/LucySE/notes-app/assets/73731572/0d7ff97d-3347-4a74-97ac-7b1a393048c7)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-13 at 22 54 25](https://github.com/LucySE/notes-app/assets/73731572/92b5cd68-3f82-45b6-9009-773192b9c095)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-13 at 22 54 25](https://github.com/LucySE/notes-app/assets/73731572/2951b8b5-c060-4ebb-a8f1-af56479041a7)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-13 at 22 54 48](https://github.com/LucySE/notes-app/assets/73731572/ba3374f7-d5bb-42e7-b739-772599c7ba4d)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-13 at 22 56 22](https://github.com/LucySE/notes-app/assets/73731572/6697bc72-7597-4f3e-b5c0-1a06a04adbea)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-13 at 22 57 44](https://github.com/LucySE/notes-app/assets/73731572/48745b53-df68-4522-8f57-5a3bd8ace055)
