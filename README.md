@@ -1,6 +1,6 @@
 # notes-app
-![Screenshot 2023-11-13 at 11 05 56 pm](https://github.com/LucySE/notes-app/assets/73731572/7a7d03f8-9084-4e23-ad7d-71b262e970e6)
 ![Screenshot 2023-11-13 at 11 06 50 pm](https://github.com/LucySE/notes-app/assets/73731572/18fd56ce-a7ea-4325-8e1d-80324a5e497a)
+![Screenshot 2023-11-13 at 11 05 56 pm](https://github.com/LucySE/notes-app/assets/73731572/7a7d03f8-9084-4e23-ad7d-71b262e970e6)
 ![Screenshot 2023-11-13 at 11 07 14 pm](https://github.com/LucySE/notes-app/assets/73731572/c5382497-763d-4012-9d9d-42c819ab6bc9)
 ![Screenshot 2023-11-13 at 11 07 48 pm](https://github.com/LucySE/notes-app/assets/73731572/6823daa5-e3cf-453e-be24-be58d7640427)
 ![Screenshot 2023-11-13 at 11 08 00 pm](https://github.com/LucySE/notes-app/assets/73731572/f63af72f-5ead-481f-88d6-f25fcf1408ed)
