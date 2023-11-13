@@ -1,0 +1,45 @@
+
+{
+    "clients": [
+        {
+            "id": 1,
+            "name": "John Doe"
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe"
+        },
+        {
+            "id": 3,
+            "name": "Bob Smith"
+        },
+        {
+            "id": 4,
+            "name": "Alice Johnson"
+        },
+        {
+            "id": 5,
+            "name": "David Lee"
+        },
+        {
+            "id": 6,
+            "name": "Emily Wang"
+        },
+        {
+            "id": 7,
+            "name": "Michael Brown"
+        },
+        {
+            "id": 8,
+            "name": "Olivia Davis"
+        },
+        {
+            "id": 9,
+            "name": "William Garcia"
+        },
+        {
+            "id": 10,
+            "name": "Sophia Wilson"
+        }
+    ]
+}
